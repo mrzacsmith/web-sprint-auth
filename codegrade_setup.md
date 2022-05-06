@@ -17,7 +17,7 @@ Whenever setting up a Codegrade assignment or importing settings from another as
 ## 2- Global Setup Script
 
 ```bash
-curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash - && sudo apt-get install -y nodejs; cg-jest install; npm i -g jest@27.5.1
+curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash - && sudo apt-get install -y nodejs; cg-jest install; npm i -g jest@28.1.0
 ```
 
 ## 3- Per-Student Setup Script
